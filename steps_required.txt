@@ -1,0 +1,10 @@
+
+1. define the function body for quickSort algorithm
+
+2. push "n" amount of random integers into a file (write mode)
+
+3. record the time required to perform quicksort procedure (time module in C)
+
+4. record the value of "n" and "t" in their separate files as well ( append mode )
+
+5. plot each value of "t" vs "n" (matplotlib)
